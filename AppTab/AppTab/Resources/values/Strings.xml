@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">AppTab</string>
     <string name="action_settings">Settings</string>
+  <string name="whatson_tab_label">What\'s On</string>
+  <string name="speakers_tab_label">Speakers</string>
+  <string name="sessions_tab_label">Sessions</string>
 </resources>
